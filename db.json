@@ -26,5 +26,12 @@
 	{ "id": 3, "nome":"Iago", "lista": [{"id": 3,"nome": "Solineuza", "especie": "Cachorro", "raça": "SRD"}]},
 	{ "id": 4, "nome":"Thaís", "lista": [{"id": 4,"nome": "Fofinho", "especie": "Cachorro", "raça": "SRD"}]},
 	{ "id": 5, "nome":"Sophia", "lista": [{"id": 5,"nome": "Rex", "especie": "Gato", "raça": "Siamês"}]}
+  ],
+  "info-consultas": [
+	{ "id": 1, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "nomeVet":"Marco", "nomeAnimal":"Harry", lista:[{"nome" : "Banho", "custo":10},{"nome" : "Tosa", "custo":10}]},
+	{ "id": 2, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "nomeVet":"Antonio", "nomeAnimal":"Pitucho", lista:[{"nome" : "Tosa", "custo":10}]},
+	{ "id": 3, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "nomeVet":"Pereira", "nomeAnimal":"Solineuza", lista:[{"nome" : "Exame de Sangue", "custo":100}]},
+	{ "id": 4, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "nomeVet":"Araujo",  "nomeAnimal":"Fofinho", lista:[{"nome" : "Castração", "custo":1000},{"nome" : "Exame de Sangue", "custo":100}]},
+	{ "id": 5, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado",  "nomeVet":"Marcão", "nomeAnimal":"Rex", lista:[{"nome" : "Checukp", "custo":100}]}
   ]
 }
